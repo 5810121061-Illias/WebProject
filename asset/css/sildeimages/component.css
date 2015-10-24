@@ -1,4 +1,4 @@
-
+﻿
 /* Menu
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .main-menu {
@@ -11,7 +11,7 @@
 .my-menu {
 	display: inline-block;
 	width: 100%;
-	background-color: #000000;
+	background-color: #222222;
 }
 
 .my-menu li {
